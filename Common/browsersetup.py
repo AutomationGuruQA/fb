@@ -11,5 +11,3 @@ def launch_browser():
     driver.get("https://www.fb.com/")
     yield
     driver.quit()
-
-
